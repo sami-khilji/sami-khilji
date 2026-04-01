@@ -7,7 +7,7 @@
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sami-je3" height="30" width="40" /></a>
     <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sami.je3" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=923055222399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Sami.je3" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=‪447877459006‬" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Sami.je3" height="30" width="40" /></a>
 <a style="margin-left: 4px" href="https://www.upwork.com/fl/~019359ec3981a88047?mp_source=share" target="blank"><img align="center" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" alt="Sami.je3" height="30" width="30" /></a>
 </p>
 
